@@ -50,5 +50,9 @@ A continuación, se pueden visualizar dichos diagramas:
 # Tecnologia
 
 <p align="center">
- <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="Imagenes\Logo MySQL.png" alt="MySQL" width="50" height="50"/> 
+ <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="Imagenes\Logo MySQL.png" alt="MySQL" width="75" height="75"/> 
+ </a> 
+
+<p align="center">
+ <a href="https://www.drawio.com/blog" target="_blank" rel="noreferrer"> <img src="Imagenes\Draw.io.png" alt="Draw.io" width="75" height="75"/> 
  </a> 
