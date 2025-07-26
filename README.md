@@ -8,8 +8,7 @@
 2. [Nuestro cliente](#nuestro-cliente)
 3. [Nuestra propuesta](#nuestra-propuesta)
 4. [Tecnologia](#tecnologías)
-5. [Metodología de trabajo](#metodología-de-trabajo)
-6. [Producto](#producto)
+5. [Producto](#producto)
 
 # ¿Quienes somos?
 
@@ -50,8 +49,12 @@ A continuación, se pueden visualizar dichos diagramas:
 # Tecnologia
 
  <p align="center">
- <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img  src="Imagenes\L MySQL.png" alt="MySQL" width="75" height="75"/> 
+ <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img  src="Imagenes\Logo MySQL.png" alt="MySQL" width="75" height="75"/> 
  </a> 
  <a href="https://www.drawio.com/blog" target="_blank" rel="noreferrer"> <img src="Imagenes\Draw.io.png" alt="Draw.io" width="75" height="75"/> 
  </a> 
  </p>
+
+# Producto
+
+>El archivo "Base de datos Patinadores.sql" contiene el código final de la base de datos entregada al cliente. Este incluye datos precargados de prueba, así como consultas que utilizan funciones JOIN. Estas consultas demuestran el perfecto funcionamiento de la base de datos y la integridad de sus relaciones.
