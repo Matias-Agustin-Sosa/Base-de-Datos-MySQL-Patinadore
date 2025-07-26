@@ -46,3 +46,9 @@ A continuación, se pueden visualizar dichos diagramas:
 <p align="center">
 <img src="Imagenes\DLR.png" alt="Equipo de Desarrollo" width="650">
 </p>
+
+# Tecnologia
+
+<p align="center">
+ <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="Imagenes\Logo MySQL.png" alt="MySQL" width="50" height="50"/> 
+ </a> 
