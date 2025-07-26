@@ -4,7 +4,7 @@
 
 # Índice
 
-1. [¿Quienes Somos?](#¿quienes-somos?)
+1. [¿Quienes somos?](#¿Quienes-somos?)
 2. [Nuestro cliente](#nuestro-cliente)
 3. [Nuestra propuesta](#nuestra-propuesta)
 4. [Tecnologías](#tecnologías)
