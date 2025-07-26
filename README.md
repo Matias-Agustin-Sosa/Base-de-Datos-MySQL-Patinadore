@@ -4,13 +4,13 @@
 
 # Índice
 
-1. [¿Quienes somos?](#¿quienes-somos?)
+1. [Nosotros](#Nosotros)
 2. [Nuestro cliente](#nuestro-cliente)
 3. [Nuestra propuesta](#nuestra-propuesta)
 4. [Tecnologías](#tecnologías)
 5. [Producto](#producto)
 
-# ¿Quienes somos?
+# Nosotros
 
 <p align="center">
 <img src="Imagenes\Logo.png" alt="Equipo de Desarrollo" width="250">
