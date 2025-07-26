@@ -7,7 +7,7 @@
 1. [¿Quienes Somos?](#¿quienes-somos?)
 2. [Nuestro cliente](#nuestro-cliente)
 3. [Nuestra propuesta](#nuestra-propuesta)
-4. [Tecnologia](#tecnologías)
+4. [Tecnologías](#tecnologías)
 5. [Producto](#producto)
 
 # ¿Quienes somos?
@@ -46,7 +46,7 @@ A continuación, se pueden visualizar dichos diagramas:
 <img src="Imagenes\DLR.png" alt="Equipo de Desarrollo" width="650">
 </p>
 
-# Tecnologia
+# Tecnologías
 
  <p align="center">
  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img  src="Imagenes\Logo MySQL.png" alt="MySQL" width="75" height="75"/> 
